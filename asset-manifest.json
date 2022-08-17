@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airports-app/static/css/main.fd2516b1.css",
+    "main.js": "/airports-app/static/js/main.5b833df7.js",
+    "index.html": "/airports-app/index.html",
+    "main.fd2516b1.css.map": "/airports-app/static/css/main.fd2516b1.css.map",
+    "main.5b833df7.js.map": "/airports-app/static/js/main.5b833df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2516b1.css",
+    "static/js/main.5b833df7.js"
+  ]
+}
